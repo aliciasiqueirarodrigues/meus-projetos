@@ -1,0 +1,3 @@
+o godigo tem principal objetivo de registrar e exibir os dados basicos de um estudante.
+  ele simula um simples cadastro escolar, permitindo armazenar e manipular informaçoes como:
+nome do aluno, idade, matricula, curso ouserie, etc.
